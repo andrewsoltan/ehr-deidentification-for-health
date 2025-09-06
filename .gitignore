@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and results
+data/
+results/
+src/data/
+
+# Secrets
+.env
+**/access_tokens.py
+
+# OS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+models/
+access_tokens.py
+AnonCAT_tuning.ipynb
