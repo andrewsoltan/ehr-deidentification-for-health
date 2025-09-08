@@ -12,9 +12,7 @@ Rachel Kuo MB BChir¹ ²*, Andrew A.S. Soltan MB BChir² ³ ⁴ ⁵*, Ciaran O�
 - `src/`: project source (e.g., `inference_functions.py`, helpers)
 - `Metric Calculations/`: metrics computation and analysis utilities
 - `config/settings.py`: centralised configuration reading from environment
-- `paper/`: manuscript and supplementary materials
-- `charts/`: plotting notebooks and artifacts
-- `data/`: place datasets here (ignored by git)
+- `data/`: place datasets here
 
 ### Requirements and installation
 - Python 3.10+
